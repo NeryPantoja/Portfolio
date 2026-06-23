@@ -4,7 +4,7 @@ Professional Portfolio website
 This is my personal portfolio website created to showcase my skills, projects, education, and experience as I continue building my career in software engineering.
 
 ## About the Project
-
+This portfolio website is my first front-end project. I am currently building additional beginner projects to add to this portfolio as I continue learning and practicing web development.
 This portfolio was designed as a responsive webpage that highlights who I am, my technical skills, and the projects I am working on. It serves as a central place for employers, recruiters, and collaborators to learn more about me and view my work.
 
 ## Features
