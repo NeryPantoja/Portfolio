@@ -31,7 +31,7 @@ While building this project, I practiced structuring a webpage with HTML, stylin
 ## Live Demo
 
 View the live website here:  
-[Portfolio Website](nerypantoja.github.io/Portfolio/)
+[Portfolio Website](https://nerypantoja.github.io/Portfolio/)
 
 ## Screenshots
 
