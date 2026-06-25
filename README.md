@@ -20,13 +20,19 @@ This portfolio was designed as a responsive webpage that highlights who I am, my
 
 - HTML
 - CSS
-- JavaScript
 - Git
 - GitHub
 
 ## What I Learned
 
 While building this project, I practiced structuring a webpage with HTML, styling layouts with CSS, making the site responsive, and organizing my code for GitHub. This project helped me strengthen my understanding of front-end development basics.
+
+## Future Improvements
+
+- Add JavaScript for interactive features
+- Add more projects
+- Improve mobile responsiveness
+- Add a downloadable resume
 
 ## Live Demo
 
