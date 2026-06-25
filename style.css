@@ -8,11 +8,11 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   background-color: #f4f4f4;
-  color: #222;
+  color: #222222;
 }
 
 header {
-  background-color: #222;
+  background-color: #74145f;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -42,6 +42,10 @@ h2 {
   margin-bottom: 15px;
 }
 
+section h2 {
+  text-align: center;
+}
+
 ul {
   list-style-position: inside;
 }
@@ -51,11 +55,41 @@ ul {
   padding: 20px;
   margin: 15px 0;
   border-radius: 8px;
+  border: 2px solid #74145f;
 }
 
+#about img {
+  width: 200px;
+}
+
+#about {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.about-text {
+  text-align: center;
+}
+
+.skills-list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#contact, #education{
+  text-align: center;
+}
 footer {
   text-align: center;
   padding: 20px;
-  background-color: #222;
+  background-color: #74145f;
   color: white;
+}
+
+@media (max-width: 768px) {
+  #about {
+    flex-direction: column;
+    text-align: center;
+  }
 }
