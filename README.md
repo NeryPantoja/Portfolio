@@ -31,11 +31,11 @@ While building this project, I practiced structuring a webpage with HTML, stylin
 ## Live Demo
 
 View the live website here:  
-[Portfolio Website](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[Portfolio Website](nerypantoja.github.io/Portfolio/)
 
 ## Screenshots
 
 Add screenshots of your webpage here.
 
 ```md
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](media/images/portfolio_screenshot.png)
