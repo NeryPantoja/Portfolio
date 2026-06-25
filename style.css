@@ -71,15 +71,22 @@ ul {
   text-align: center;
 }
 
-.skills-list {
+.skill-group ul {
   display: flex;
+  justify-content: center;
   gap: 15px;
   flex-wrap: wrap;
-  justify-content: center;
+  list-style: none;
+  padding: 0;
 }
+.skill-group h3 {
+  text-align: center;
+}
+
 #contact, #education{
   text-align: center;
 }
+
 footer {
   text-align: center;
   padding: 20px;

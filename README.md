@@ -1,7 +1,6 @@
-# Portfolio_Repo
-Professional Portfolio website
+# Personal Portfolio Website
 
-This is my personal portfolio website created to showcase my skills, projects, education, and experience as I continue building my career in software engineering.
+A professional portfolio website created to showcase my skills, education, and future software engineering projects.
 
 ## About the Project
 This portfolio website is my first front-end project. I am currently building additional beginner projects to add to this portfolio as I continue learning and practicing web development.
@@ -22,6 +21,7 @@ This portfolio was designed as a responsive webpage that highlights who I am, my
 - CSS
 - Git
 - GitHub
+- GitHub Pages
 
 ## What I Learned
 
@@ -39,9 +39,10 @@ While building this project, I practiced structuring a webpage with HTML, stylin
 View the live website here:  
 [Portfolio Website](https://nerypantoja.github.io/Portfolio/)
 
+## GitHub Repository
+
+[View Repository](https://github.com/NeryPantoja/Portfolio)
+
 ## Screenshots
 
-Add screenshots of your webpage here.
-
-```md
-![Portfolio Screenshot](media/images/portfolio_screenshot.png)
+![Portfolio Screenshot](media/images/portfolio_screenshot.jpeg)
