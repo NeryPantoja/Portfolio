@@ -3,16 +3,16 @@
 A professional portfolio website created to showcase my skills, education, and future software engineering projects.
 
 ## About the Project
-This portfolio website is my first front-end project. I am currently building additional beginner projects to add to this portfolio as I continue learning and practicing web development.
-This portfolio was designed as a responsive webpage that highlights who I am, my technical skills, and the projects I am working on. It serves as a central place for employers, recruiters, and collaborators to learn more about me and view my work.
+This portfolio website serves as a central place for recruiters, employers, and collaborators to learn more about my technical background and view my work. It highlights my experience with software development, databases, web development, and cloud fundamentals.
 
 ## Features
 
 - Responsive design for desktop and mobile screens
 - About Me section
-- Skills section
-- Project showcase
-- Contact information
+- Technical skills and tools
+- Software and database projects
+- Certifications
+- Contact Information links
 - Clean and simple user interface
 
 ## Technologies Used
@@ -23,15 +23,24 @@ This portfolio was designed as a responsive webpage that highlights who I am, my
 - GitHub
 - GitHub Pages
 
+## Projects Featured
+
+### PostgreSQL Reporting Project
+Built a PostgreSQL reporting solution using SQL, joins, functions, triggers, and stored procedures to automate monthly revenue summaries. Debugged duplicate records caused by overlapping update logic.
+
+### Responsive Portfolio Website
+Designed and deployed this responsive portfolio website to showcase my software engineering skills, projects, and experience.
+
 ## What I Learned
 
-While building this project, I practiced structuring a webpage with HTML, styling layouts with CSS, making the site responsive, and organizing my code for GitHub. This project helped me strengthen my understanding of front-end development basics.
+While building and maintaining this portfolio, I practiced structuring webpages with HTML, creating responsive layouts with CSS, managing changes with Git and GitHub, and deploying a live site through GitHub Pages.
 
 ## Future Improvements
 
-- Add JavaScript for interactive features
-- Add more projects
-- Improve mobile responsiveness
+- Add JavaScript-based interactive features
+- Add additional software engineering projects
+- Add a navigation bar to support additional portfolio pages
+- Continue improving mobile responsiveness and accessibility
 - Add a downloadable resume
 
 ## Live Demo
@@ -45,4 +54,4 @@ View the live website here:
 
 ## Screenshots
 
-![Portfolio Screenshot](media/images/portfolio_screenshot.jpeg)
+![Portfolio Screenshot](media/images/portfolio_screenshot.png)
